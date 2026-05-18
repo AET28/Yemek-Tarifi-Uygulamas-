@@ -1,0 +1,615 @@
+[
+  {
+    "tarif_id": 1,
+    "tarif_adi": "Mercimek Çorbası",
+    "kategori": "Çorba",
+    "hazirlama_suresi": 45,
+    "malzemeler": [
+      {
+        "malzeme_adi": "Kırmızı mercimek",
+        "miktar": "1.5 su bardağı"
+      },
+      {
+        "malzeme_adi": "Soğan",
+        "miktar": "1 adet"
+      },
+      {
+        "malzeme_adi": "Havuç",
+        "miktar": "1 adet"
+      },
+      {
+        "malzeme_adi": "Patates",
+        "miktar": "1 adet"
+      },
+      {
+        "malzeme_adi": "Tereyağı",
+        "miktar": "2 yemek kaşığı"
+      },
+      {
+        "malzeme_adi": "Tuz",
+        "miktar": "1 tatlı kaşığı"
+      },
+      {
+        "malzeme_adi": "Karabiber",
+        "miktar": "1 çay kaşığı"
+      },
+      {
+        "malzeme_adi": "Pul biber",
+        "miktar": "1 çay kaşığı"
+      }
+    ],
+    "aciklama": "Kırmızı mercimeği yıkayıp süzün. Soğanı yağda kavurun. Havuç ve patatesi küçük küçük doğrayıp ekleyin. Mercimeği ekleyip sıcak su ile kaynatın. Yumuşayınca blenderdan geçirin. Tuz, karabiber ve pul biber ile tatlandırın. Üzerine tereyağlı sos gezdirin.",
+    "yazar_id": 1,
+    "eklenme_tarihi": "2026-05-07T18:04:01.101009"
+  },
+  {
+    "tarif_id": 2,
+    "tarif_adi": "Adana Kebap",
+    "kategori": "Ana Yemek",
+    "hazirlama_suresi": 90,
+    "malzemeler": [
+      {
+        "malzeme_adi": "Dana kıyma",
+        "miktar": "500 gr"
+      },
+      {
+        "malzeme_adi": "Kuyruk yağı",
+        "miktar": "100 gr"
+      },
+      {
+        "malzeme_adi": "Pul biber",
+        "miktar": "2 yemek kaşığı"
+      },
+      {
+        "malzeme_adi": "Tuz",
+        "miktar": "1 tatlı kaşığı"
+      },
+      {
+        "malzeme_adi": "Karabiber",
+        "miktar": "1 çay kaşığı"
+      },
+      {
+        "malzeme_adi": "Soğan",
+        "miktar": "2 adet"
+      },
+      {
+        "malzeme_adi": "Domates",
+        "miktar": "3 adet"
+      },
+      {
+        "malzeme_adi": "Lavaş",
+        "miktar": "4 adet"
+      }
+    ],
+    "aciklama": "Kıymayı kuyruk yağı ile iyice yoğurun. Pul biber, tuz ve karabiberi ekleyin. En az 2 saat buzdolabında dinlendirin. Şişlere sararak mangal közünde veya ızgarada pişirin. Lavaş, soğan ve közlenmiş domates ile servis edin.",
+    "yazar_id": 2,
+    "eklenme_tarihi": "2026-05-07T18:04:01.102009"
+  },
+  {
+    "tarif_id": 3,
+    "tarif_adi": "Mantı",
+    "kategori": "Ana Yemek",
+    "hazirlama_suresi": 180,
+    "malzemeler": [
+      {
+        "malzeme_adi": "Un",
+        "miktar": "3 su bardağı"
+      },
+      {
+        "malzeme_adi": "Yumurta",
+        "miktar": "1 adet"
+      },
+      {
+        "malzeme_adi": "Dana kıyma",
+        "miktar": "250 gr"
+      },
+      {
+        "malzeme_adi": "Soğan",
+        "miktar": "1 adet"
+      },
+      {
+        "malzeme_adi": "Yoğurt",
+        "miktar": "2 su bardağı"
+      },
+      {
+        "malzeme_adi": "Sarımsak",
+        "miktar": "3 diş"
+      },
+      {
+        "malzeme_adi": "Tereyağı",
+        "miktar": "2 yemek kaşığı"
+      },
+      {
+        "malzeme_adi": "Pul biber",
+        "miktar": "1 yemek kaşığı"
+      },
+      {
+        "malzeme_adi": "Nane",
+        "miktar": "1 tatlı kaşığı"
+      },
+      {
+        "malzeme_adi": "Tuz",
+        "miktar": "1 tatlı kaşığı"
+      }
+    ],
+    "aciklama": "Un, yumurta, su ve tuz ile hamur yoğurun. İnce açıp küçük kareler kesin. Kıyma, soğan, tuz ve baharatla iç harç hazırlayın. Karelerin ortasına iç koyup kapatın. Kaynar tuzlu suda haşlayın. Sarımsaklı yoğurt ve tereyağlı pul biberli sos ile servis edin.",
+    "yazar_id": 3,
+    "eklenme_tarihi": "2026-05-07T18:04:01.102009"
+  },
+  {
+    "tarif_id": 4,
+    "tarif_adi": "Sütlaç",
+    "kategori": "Tatlı",
+    "hazirlama_suresi": 60,
+    "malzemeler": [
+      {
+        "malzeme_adi": "Pirinç",
+        "miktar": "0.5 su bardağı"
+      },
+      {
+        "malzeme_adi": "Süt",
+        "miktar": "1 litre"
+      },
+      {
+        "malzeme_adi": "Şeker",
+        "miktar": "1 su bardağı"
+      },
+      {
+        "malzeme_adi": "Pirinç unu",
+        "miktar": "2 yemek kaşığı"
+      },
+      {
+        "malzeme_adi": "Vanilya",
+        "miktar": "1 paket"
+      },
+      {
+        "malzeme_adi": "Tarçın",
+        "miktar": "süsleme için"
+      }
+    ],
+    "aciklama": "Pirinci yıkayıp 1 saat suda bekletin. Süzüp bir miktar su ile haşlayın. Sütü ekleyip kaynatın. Şeker ve pirinç ununun karışımını ekleyin. Kıvam alınca güveç kaplarına bölün. Fırında üstü kızarana dek pişirin.",
+    "yazar_id": 1,
+    "eklenme_tarihi": "2026-05-07T18:04:01.103009"
+  },
+  {
+    "tarif_id": 5,
+    "tarif_adi": "Künefe",
+    "kategori": "Tatlı",
+    "hazirlama_suresi": 45,
+    "malzemeler": [
+      {
+        "malzeme_adi": "Kadayıf",
+        "miktar": "250 gr"
+      },
+      {
+        "malzeme_adi": "Künefe peyniri",
+        "miktar": "200 gr"
+      },
+      {
+        "malzeme_adi": "Tereyağı",
+        "miktar": "100 gr"
+      },
+      {
+        "malzeme_adi": "Şeker",
+        "miktar": "2 su bardağı"
+      },
+      {
+        "malzeme_adi": "Su",
+        "miktar": "1.5 su bardağı"
+      },
+      {
+        "malzeme_adi": "Limon suyu",
+        "miktar": "1 çay kaşığı"
+      },
+      {
+        "malzeme_adi": "Antep fıstığı",
+        "miktar": "2 yemek kaşığı"
+      }
+    ],
+    "aciklama": "Kadayıfı ince ince didikleyin. Erimiş tereyağı ile karıştırın. Yarısını kalıba yayın, peyniri ortaya koyun, kalan kadayıfı üstüne kapatın. Kısık ateşte iki tarafını da kızartın. Ilık şerbeti üzerine gezdirip antep fıstığı ile servis edin.",
+    "yazar_id": 4,
+    "eklenme_tarihi": "2026-05-07T18:04:01.104512"
+  },
+  {
+    "tarif_id": 6,
+    "tarif_adi": "Çoban Salata",
+    "kategori": "Salata",
+    "hazirlama_suresi": 15,
+    "malzemeler": [
+      {
+        "malzeme_adi": "Domates",
+        "miktar": "3 adet"
+      },
+      {
+        "malzeme_adi": "Salatalık",
+        "miktar": "2 adet"
+      },
+      {
+        "malzeme_adi": "Sivri biber",
+        "miktar": "2 adet"
+      },
+      {
+        "malzeme_adi": "Soğan",
+        "miktar": "1 adet"
+      },
+      {
+        "malzeme_adi": "Maydanoz",
+        "miktar": "1 demet"
+      },
+      {
+        "malzeme_adi": "Zeytinyağı",
+        "miktar": "3 yemek kaşığı"
+      },
+      {
+        "malzeme_adi": "Limon",
+        "miktar": "1 adet"
+      },
+      {
+        "malzeme_adi": "Tuz",
+        "miktar": "1 çay kaşığı"
+      }
+    ],
+    "aciklama": "Domates, salatalık, biber ve soğanı küçük küçük doğrayın. Maydanoz yapraklarını ince kıyın. Zeytinyağı, limon suyu ve tuz ile harmanlayın.",
+    "yazar_id": 5,
+    "eklenme_tarihi": "2026-05-07T18:04:01.104512"
+  },
+  {
+    "tarif_id": 7,
+    "tarif_adi": "Menemen",
+    "kategori": "Kahvaltı",
+    "hazirlama_suresi": 20,
+    "malzemeler": [
+      {
+        "malzeme_adi": "Yumurta",
+        "miktar": "4 adet"
+      },
+      {
+        "malzeme_adi": "Domates",
+        "miktar": "3 adet"
+      },
+      {
+        "malzeme_adi": "Sivri biber",
+        "miktar": "2 adet"
+      },
+      {
+        "malzeme_adi": "Zeytinyağı",
+        "miktar": "2 yemek kaşığı"
+      },
+      {
+        "malzeme_adi": "Tuz",
+        "miktar": "1 çay kaşığı"
+      },
+      {
+        "malzeme_adi": "Pul biber",
+        "miktar": "1 çay kaşığı"
+      }
+    ],
+    "aciklama": "Biberleri ve domatesleri küçük küçük doğrayın. Zeytinyağında önce biberleri kavurun. Domatesleri ekleyip suyunu salana dek pişirin. Yumurtaları kırıp karıştırın. Tuz ve pul biber ekleyin. Yumurtalar pişene dek karıştırarak pişirin.",
+    "yazar_id": 6,
+    "eklenme_tarihi": "2026-05-07T18:04:01.105516"
+  },
+  {
+    "tarif_id": 8,
+    "tarif_adi": "İmam Bayıldı",
+    "kategori": "Ana Yemek",
+    "hazirlama_suresi": 75,
+    "malzemeler": [
+      {
+        "malzeme_adi": "Patlıcan",
+        "miktar": "4 adet"
+      },
+      {
+        "malzeme_adi": "Soğan",
+        "miktar": "2 adet"
+      },
+      {
+        "malzeme_adi": "Domates",
+        "miktar": "3 adet"
+      },
+      {
+        "malzeme_adi": "Sivri biber",
+        "miktar": "3 adet"
+      },
+      {
+        "malzeme_adi": "Sarımsak",
+        "miktar": "4 diş"
+      },
+      {
+        "malzeme_adi": "Zeytinyağı",
+        "miktar": "0.5 su bardağı"
+      },
+      {
+        "malzeme_adi": "Tuz",
+        "miktar": "1 tatlı kaşığı"
+      }
+    ],
+    "aciklama": "Patlıcanları alacalı soyup ortadan yarın. Tuzlu suda bekletin. Soğan, domates ve biberi doğrayıp zeytinyağında kavurun. Patlıcanları tepsiye dizin, iç harcı üzerlerine paylaştırın. Fırında 180°C'de 40 dakika pişirin.",
+    "yazar_id": 7,
+    "eklenme_tarihi": "2026-05-07T18:04:01.109020"
+  },
+  {
+    "tarif_id": 9,
+    "tarif_adi": "Karnıyarık",
+    "kategori": "Ana Yemek",
+    "hazirlama_suresi": 80,
+    "malzemeler": [
+      {
+        "malzeme_adi": "Patlıcan",
+        "miktar": "4 adet"
+      },
+      {
+        "malzeme_adi": "Dana kıyma",
+        "miktar": "300 gr"
+      },
+      {
+        "malzeme_adi": "Soğan",
+        "miktar": "1 adet"
+      },
+      {
+        "malzeme_adi": "Domates",
+        "miktar": "2 adet"
+      },
+      {
+        "malzeme_adi": "Sivri biber",
+        "miktar": "2 adet"
+      },
+      {
+        "malzeme_adi": "Sarımsak",
+        "miktar": "2 diş"
+      },
+      {
+        "malzeme_adi": "Sıvı yağ",
+        "miktar": "kızartma için"
+      },
+      {
+        "malzeme_adi": "Tuz",
+        "miktar": "1 tatlı kaşığı"
+      },
+      {
+        "malzeme_adi": "Karabiber",
+        "miktar": "1 çay kaşığı"
+      }
+    ],
+    "aciklama": "Patlıcanları soyup kızartın. Kıymayı soğan ile kavurun, domates rendesi ve biberi ekleyin. Patlıcanları ortadan yarıp iç harcı doldurun. Tepsiye dizin, üzerlerine domates dilimleri koyun. 180°C fırında 30 dakika pişirin.",
+    "yazar_id": 8,
+    "eklenme_tarihi": "2026-05-07T18:04:01.110026"
+  },
+  {
+    "tarif_id": 10,
+    "tarif_adi": "Lahmacun",
+    "kategori": "Hamur İşi",
+    "hazirlama_suresi": 60,
+    "malzemeler": [
+      {
+        "malzeme_adi": "Un",
+        "miktar": "3 su bardağı"
+      },
+      {
+        "malzeme_adi": "Maya",
+        "miktar": "1 paket"
+      },
+      {
+        "malzeme_adi": "Dana kıyma",
+        "miktar": "300 gr"
+      },
+      {
+        "malzeme_adi": "Soğan",
+        "miktar": "2 adet"
+      },
+      {
+        "malzeme_adi": "Domates",
+        "miktar": "2 adet"
+      },
+      {
+        "malzeme_adi": "Sivri biber",
+        "miktar": "3 adet"
+      },
+      {
+        "malzeme_adi": "Maydanoz",
+        "miktar": "1 demet"
+      },
+      {
+        "malzeme_adi": "Pul biber",
+        "miktar": "1 yemek kaşığı"
+      },
+      {
+        "malzeme_adi": "Tuz",
+        "miktar": "1 tatlı kaşığı"
+      }
+    ],
+    "aciklama": "Un, maya, su ve tuzla hamur yoğurun. Dinlendirin. Kıyma, soğan, domates, biber ve maydanozu karıştırıp iç harç yapın. Hamuru bezeler ayırıp ince açın. İç harcı yayın. 250°C fırında 8-10 dakika pişirin.",
+    "yazar_id": 1,
+    "eklenme_tarihi": "2026-05-07T18:04:01.112031"
+  },
+  {
+    "tarif_id": 11,
+    "tarif_adi": "Pide",
+    "kategori": "Hamur İşi",
+    "hazirlama_suresi": 50,
+    "malzemeler": [
+      {
+        "malzeme_adi": "Un",
+        "miktar": "4 su bardağı"
+      },
+      {
+        "malzeme_adi": "Maya",
+        "miktar": "1 paket"
+      },
+      {
+        "malzeme_adi": "Yoğurt",
+        "miktar": "2 yemek kaşığı"
+      },
+      {
+        "malzeme_adi": "Dana kıyma",
+        "miktar": "250 gr"
+      },
+      {
+        "malzeme_adi": "Kaşar peyniri",
+        "miktar": "150 gr"
+      },
+      {
+        "malzeme_adi": "Soğan",
+        "miktar": "1 adet"
+      },
+      {
+        "malzeme_adi": "Domates",
+        "miktar": "1 adet"
+      },
+      {
+        "malzeme_adi": "Yumurta",
+        "miktar": "2 adet"
+      },
+      {
+        "malzeme_adi": "Tuz",
+        "miktar": "1 tatlı kaşığı"
+      }
+    ],
+    "aciklama": "Hamuru un, maya, su, yoğurt ve tuzla yoğurun. 1 saat mayalandırın. Kıyma, kaşar ve sebze karışımı ile iç hazırlayın. Hamuru kayık şeklinde açıp iç malzemeyi yayın. 220°C fırında 15 dakika pişirin. Üzerine yumurta kırıp 3 dakika daha pişirin.",
+    "yazar_id": 3,
+    "eklenme_tarihi": "2026-05-07T18:04:01.113030"
+  },
+  {
+    "tarif_id": 12,
+    "tarif_adi": "Baklava",
+    "kategori": "Tatlı",
+    "hazirlama_suresi": 120,
+    "malzemeler": [
+      {
+        "malzeme_adi": "Yufka",
+        "miktar": "1 kg"
+      },
+      {
+        "malzeme_adi": "Ceviz içi",
+        "miktar": "300 gr"
+      },
+      {
+        "malzeme_adi": "Tereyağı",
+        "miktar": "250 gr"
+      },
+      {
+        "malzeme_adi": "Şeker",
+        "miktar": "3 su bardağı"
+      },
+      {
+        "malzeme_adi": "Su",
+        "miktar": "2.5 su bardağı"
+      },
+      {
+        "malzeme_adi": "Limon suyu",
+        "miktar": "1 yemek kaşığı"
+      }
+    ],
+    "aciklama": "Yufkaları tepsiye sererek aralarına erimiş tereyağı sürün. Her 4-5 yufkada bir ceviz içi serpin. Üstünü de yufka ile kapatıp baklava şeklinde kesin. Kalan tereyağını üzerine gezdirin. 170°C fırında kızarana dek pişirin. Ilımış şerbeti üzerine dökün.",
+    "yazar_id": 2,
+    "eklenme_tarihi": "2026-05-07T18:04:01.114537"
+  },
+  {
+    "tarif_id": 13,
+    "tarif_adi": "Kuru Fasulye",
+    "kategori": "Ana Yemek",
+    "hazirlama_suresi": 120,
+    "malzemeler": [
+      {
+        "malzeme_adi": "Kuru fasulye",
+        "miktar": "2 su bardağı"
+      },
+      {
+        "malzeme_adi": "Soğan",
+        "miktar": "1 adet"
+      },
+      {
+        "malzeme_adi": "Domates salçası",
+        "miktar": "2 yemek kaşığı"
+      },
+      {
+        "malzeme_adi": "Biber salçası",
+        "miktar": "1 yemek kaşığı"
+      },
+      {
+        "malzeme_adi": "Sıvı yağ",
+        "miktar": "3 yemek kaşığı"
+      },
+      {
+        "malzeme_adi": "Tuz",
+        "miktar": "1 tatlı kaşığı"
+      },
+      {
+        "malzeme_adi": "Karabiber",
+        "miktar": "1 çay kaşığı"
+      },
+      {
+        "malzeme_adi": "Pul biber",
+        "miktar": "1 çay kaşığı"
+      }
+    ],
+    "aciklama": "Fasulyeleri bir gece suda bekletin. Soğanı yağda kavurun, salçayı ekleyin. Haşlanmış fasulyeleri ve sıcak suyu ekleyin. Kısık ateşte yumuşayana dek pişirin. Tuz ve baharatları en sona ekleyin.",
+    "yazar_id": 5,
+    "eklenme_tarihi": "2026-05-07T18:04:01.115541"
+  },
+  {
+    "tarif_id": 14,
+    "tarif_adi": "Pilav",
+    "kategori": "Ana Yemek",
+    "hazirlama_suresi": 30,
+    "malzemeler": [
+      {
+        "malzeme_adi": "Pirinç",
+        "miktar": "2 su bardağı"
+      },
+      {
+        "malzeme_adi": "Tereyağı",
+        "miktar": "2 yemek kaşığı"
+      },
+      {
+        "malzeme_adi": "Şehriye",
+        "miktar": "1 yemek kaşığı"
+      },
+      {
+        "malzeme_adi": "Su",
+        "miktar": "3 su bardağı"
+      },
+      {
+        "malzeme_adi": "Tuz",
+        "miktar": "1 tatlı kaşığı"
+      }
+    ],
+    "aciklama": "Pirinci yıkayıp ılık tuzlu suda 20 dakika bekletin. Tereyağında şehriyeyi kavurun. Süzülmüş pirinci ekleyip kavurun. Sıcak suyu ekleyin. Kaynayınca kısık ateşe alıp suyunu çekene dek pişirin. Ocaktan alıp 15 dakika demlendirin.",
+    "yazar_id": 4,
+    "eklenme_tarihi": "2026-05-07T18:04:01.117541"
+  },
+  {
+    "tarif_id": 15,
+    "tarif_adi": "Cacık",
+    "kategori": "Salata",
+    "hazirlama_suresi": 15,
+    "malzemeler": [
+      {
+        "malzeme_adi": "Yoğurt",
+        "miktar": "2 su bardağı"
+      },
+      {
+        "malzeme_adi": "Salatalık",
+        "miktar": "1 adet"
+      },
+      {
+        "malzeme_adi": "Sarımsak",
+        "miktar": "2 diş"
+      },
+      {
+        "malzeme_adi": "Zeytinyağı",
+        "miktar": "1 yemek kaşığı"
+      },
+      {
+        "malzeme_adi": "Nane",
+        "miktar": "1 tatlı kaşığı"
+      },
+      {
+        "malzeme_adi": "Tuz",
+        "miktar": "1 çay kaşığı"
+      }
+    ],
+    "aciklama": "Salatalığı rendeleyin veya küçük küçük doğrayın. Yoğurdu çırpın. Sarımsağı ezin. Hepsini karıştırıp zeytinyağı ve nane ekleyin. Buzdolabında soğutarak servis edin.",
+    "yazar_id": 6,
+    "eklenme_tarihi": "2026-05-07T18:04:01.119046"
+  }
+]

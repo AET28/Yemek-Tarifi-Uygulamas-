@@ -1,0 +1,210 @@
+[
+  {
+    "degerlendirme_id": 1,
+    "tarif_id": 1,
+    "kullanici_id": 2,
+    "puan": 5,
+    "yorum": "Çok lezzetli oldu, herkes bayıldı.",
+    "tarih": "2026-05-07T18:04:01.120050"
+  },
+  {
+    "degerlendirme_id": 2,
+    "tarif_id": 1,
+    "kullanici_id": 3,
+    "puan": 4,
+    "yorum": "Güzel ama biraz daha tuz koyardım.",
+    "tarih": "2026-05-07T18:04:01.121053"
+  },
+  {
+    "degerlendirme_id": 3,
+    "tarif_id": 1,
+    "kullanici_id": 5,
+    "puan": 5,
+    "yorum": "Anneannemin tarifi gibi, mükemmel.",
+    "tarih": "2026-05-07T18:04:01.123056"
+  },
+  {
+    "degerlendirme_id": 4,
+    "tarif_id": 2,
+    "kullanici_id": 1,
+    "puan": 4,
+    "yorum": "Acılı sevenlere tavsiye ederim.",
+    "tarih": "2026-05-07T18:04:01.125564"
+  },
+  {
+    "degerlendirme_id": 5,
+    "tarif_id": 2,
+    "kullanici_id": 3,
+    "puan": 5,
+    "yorum": "Et kalitesi çok önemli, harika oldu.",
+    "tarih": "2026-05-07T18:04:01.125564"
+  },
+  {
+    "degerlendirme_id": 6,
+    "tarif_id": 3,
+    "kullanici_id": 4,
+    "puan": 5,
+    "yorum": "Yapması zahmetli ama her lokmaya değer.",
+    "tarih": "2026-05-07T18:04:01.127583"
+  },
+  {
+    "degerlendirme_id": 7,
+    "tarif_id": 3,
+    "kullanici_id": 5,
+    "puan": 4,
+    "yorum": "Yoğurt sosu çok güzel olmuş.",
+    "tarih": "2026-05-07T18:04:01.130100"
+  },
+  {
+    "degerlendirme_id": 8,
+    "tarif_id": 3,
+    "kullanici_id": 6,
+    "puan": 3,
+    "yorum": "Bence biraz daha ince açılmalı.",
+    "tarih": "2026-05-07T18:04:01.131101"
+  },
+  {
+    "degerlendirme_id": 9,
+    "tarif_id": 4,
+    "kullanici_id": 2,
+    "puan": 4,
+    "yorum": "Fırında üstü güzel kızardı.",
+    "tarih": "2026-05-07T18:04:01.132605"
+  },
+  {
+    "degerlendirme_id": 10,
+    "tarif_id": 4,
+    "kullanici_id": 3,
+    "puan": 5,
+    "yorum": "En sevdiğim tatlı, tarif çok başarılı.",
+    "tarih": "2026-05-07T18:04:01.133606"
+  },
+  {
+    "degerlendirme_id": 11,
+    "tarif_id": 5,
+    "kullanici_id": 1,
+    "puan": 5,
+    "yorum": "Peyniri güzel eritilirse müthiş oluyor.",
+    "tarih": "2026-05-07T18:04:01.135720"
+  },
+  {
+    "degerlendirme_id": 12,
+    "tarif_id": 5,
+    "kullanici_id": 6,
+    "puan": 4,
+    "yorum": "Şerbeti biraz daha az olabilirdi.",
+    "tarih": "2026-05-07T18:04:01.136721"
+  },
+  {
+    "degerlendirme_id": 13,
+    "tarif_id": 6,
+    "kullanici_id": 1,
+    "puan": 4,
+    "yorum": "Yazın en güzel salata.",
+    "tarih": "2026-05-07T18:04:01.137721"
+  },
+  {
+    "degerlendirme_id": 14,
+    "tarif_id": 6,
+    "kullanici_id": 7,
+    "puan": 5,
+    "yorum": "Basit ama lezzetli.",
+    "tarih": "2026-05-07T18:04:01.140229"
+  },
+  {
+    "degerlendirme_id": 15,
+    "tarif_id": 7,
+    "kullanici_id": 1,
+    "puan": 5,
+    "yorum": "Kahvaltının vazgeçilmezi.",
+    "tarih": "2026-05-07T18:04:01.141229"
+  },
+  {
+    "degerlendirme_id": 16,
+    "tarif_id": 7,
+    "kullanici_id": 8,
+    "puan": 4,
+    "yorum": "Ben kaşarlı yapıyorum, o da güzel.",
+    "tarih": "2026-05-07T18:04:01.143228"
+  },
+  {
+    "degerlendirme_id": 17,
+    "tarif_id": 8,
+    "kullanici_id": 1,
+    "puan": 4,
+    "yorum": "Zeytinyağlı klasik, çok başarılı.",
+    "tarih": "2026-05-07T18:04:01.144735"
+  },
+  {
+    "degerlendirme_id": 18,
+    "tarif_id": 8,
+    "kullanici_id": 3,
+    "puan": 3,
+    "yorum": "Patlıcanları daha çok kızartmak lazım.",
+    "tarih": "2026-05-07T18:04:01.146253"
+  },
+  {
+    "degerlendirme_id": 19,
+    "tarif_id": 9,
+    "kullanici_id": 2,
+    "puan": 5,
+    "yorum": "Anneannemin tarifinden bile güzel.",
+    "tarih": "2026-05-07T18:04:01.147801"
+  },
+  {
+    "degerlendirme_id": 20,
+    "tarif_id": 10,
+    "kullanici_id": 5,
+    "puan": 4,
+    "yorum": "Hamuru ince açmak önemli.",
+    "tarih": "2026-05-07T18:04:01.149317"
+  },
+  {
+    "degerlendirme_id": 21,
+    "tarif_id": 10,
+    "kullanici_id": 7,
+    "puan": 5,
+    "yorum": "Ev yapımı lahmacun bambaşka.",
+    "tarih": "2026-05-07T18:04:01.151321"
+  },
+  {
+    "degerlendirme_id": 22,
+    "tarif_id": 11,
+    "kullanici_id": 2,
+    "puan": 4,
+    "yorum": "Kıymalı pide favorim.",
+    "tarih": "2026-05-07T18:04:01.152825"
+  },
+  {
+    "degerlendirme_id": 23,
+    "tarif_id": 12,
+    "kullanici_id": 6,
+    "puan": 5,
+    "yorum": "Baklava yapılabilecek en güzel tarif.",
+    "tarih": "2026-05-07T18:04:01.153829"
+  },
+  {
+    "degerlendirme_id": 24,
+    "tarif_id": 13,
+    "kullanici_id": 1,
+    "puan": 4,
+    "yorum": "Pilav yanında harika gidiyor.",
+    "tarih": "2026-05-07T18:04:01.155850"
+  },
+  {
+    "degerlendirme_id": 25,
+    "tarif_id": 14,
+    "kullanici_id": 3,
+    "puan": 4,
+    "yorum": "Tereyağlı pilavın sırrı demlendirmede.",
+    "tarih": "2026-05-07T18:04:01.156855"
+  },
+  {
+    "degerlendirme_id": 26,
+    "tarif_id": 15,
+    "kullanici_id": 1,
+    "puan": 5,
+    "yorum": "Yaz aylarının kurtarıcısı.",
+    "tarih": "2026-05-07T18:04:01.158902"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "kullanici_id": 1,
+    "ad": "Beko Yılmaz",
+    "email": "beko@mail.com"
+  },
+  {
+    "kullanici_id": 2,
+    "ad": "Ali Demir",
+    "email": "ali@mail.com"
+  },
+  {
+    "kullanici_id": 3,
+    "ad": "Ayşe Kaya",
+    "email": "ayse@mail.com"
+  },
+  {
+    "kullanici_id": 4,
+    "ad": "Mehmet Şahin",
+    "email": "mehmet@mail.com"
+  },
+  {
+    "kullanici_id": 5,
+    "ad": "Zeynep Arslan",
+    "email": "zeynep@mail.com"
+  },
+  {
+    "kullanici_id": 6,
+    "ad": "Can Öztürk",
+    "email": "can@mail.com"
+  },
+  {
+    "kullanici_id": 7,
+    "ad": "Selin Yıldız",
+    "email": "selin@mail.com"
+  },
+  {
+    "kullanici_id": 8,
+    "ad": "Murat Koç",
+    "email": "murat@mail.com"
+  }
+]
